@@ -4,6 +4,10 @@
 
 Um sistema web desenvolvido para facilitar o gerenciamento e a contratação de serviços para pets, reunindo agendamentos e produtos em uma única plataforma.
 
+## Integrantes
+
+Ana Luiza Marchiori - Beatriz Gagliano - Caroline Fantinate 
+
 ## 📌 Sobre o projeto
 
 O **Pet Shop** é um projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas da **ETEC de Taboão da Serra**.
@@ -25,7 +29,6 @@ A aplicação foi criada com o objetivo de oferecer uma experiência simples e i
 - HTML5
 - CSS3
 - JavaScript
-- [Adicione aqui outras tecnologias utilizadas no projeto]
 
 ## Como executar o projeto
 
